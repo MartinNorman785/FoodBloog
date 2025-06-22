@@ -1,1 +1,2 @@
-# FoodBloog
+# Basic project starter
+
